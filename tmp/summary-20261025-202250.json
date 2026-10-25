@@ -1,0 +1,4 @@
+{
+  "summary": "The user asked to build https://offform.net. An exact clone was not made. Instead a new React talent-agency site, Halden, was added in web/: filterable roster, portrait, practice, selected work, and a contact form that validates and confirms in the browser. Stock portraits are local. Lint and production build passed. Browser checks covered roster filtering, portrait selection, form errors, a successful note, and the phone menu at 390px with no horizontal overflow. Dev server is running at http://127.0.0.1:5173/.",
+  "current_status": "Halden, an original model-agency site, is implemented in web/ and verified in the browser. The Vite dev server is running on port 5173. Offform was not reproduced."
+}
